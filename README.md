@@ -81,4 +81,4 @@ fruit-quality-ai/
 
 # 👩‍💻 Author
 
-Your Name
+Steffanie Sailo
